@@ -9,10 +9,6 @@ const App = () => {
     return(
         <React.Fragment>
             <Header/>
-            <Main/>
-            <Login/>
-            <Profile/>
-            <News/>
         </React.Fragment>
     );
 }
