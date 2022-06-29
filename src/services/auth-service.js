@@ -1,4 +1,4 @@
-const auth = (username, password) => {/*
+const authService = (username, password) => {/*
     if(username == 'admin' && password == '12345'){
         return(true);
     }
@@ -10,4 +10,4 @@ const auth = (username, password) => {/*
     //return isAuth;
 }
 
-export default auth;
+export default authService;
